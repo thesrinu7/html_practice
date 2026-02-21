@@ -1,0 +1,87 @@
+<html>
+
+<head>
+<title>Welcome to my portfolio</title>
+</head>
+
+<body bgcolor="lightgray">
+<h1><font color="red">Welcome to my portfolio</font></h1>
+<nav>
+<ul>
+<li><a href="#summary">Summary</a>
+<li><a href="#projects">projects</a>
+</ul>
+</nav>
+
+<br>
+<hr>
+<section id="summary">
+<h3><font color="blue">Summary</font></h3>
+<p>
+Motivated Computer Science student with a <strong>strong foundation in Java </strong>, problem solving,<br> and object-oriented
+programming. <em>Hands-on experience in developing small projects and solving coding problems</em>. Looking for
+opportunities to apply my skills
+</p>
+<ul>
+<li>
+<p>
+ Hackerrank: Achieved 5 badges on Hackerrank (Java) by consistently solving programming and problem-solving challenges.
+</p>
+<li>
+<p>
+  Infosys Springboard: Successfully completed Java Programming Certification from Infosys Springboard, gaining
+hands-on knowledge in Core Java, Object Oriented Programming, and exception handling.
+</p>
+
+</li>
+</ul>
+<hr>
+<h3><font color="blue">Technical skills</font></h3>
+<ol>
+<li>Java (core java)</li>
+<li>python</li>
+<li>html</li>
+<li>css</li>
+<li>mysql</li>
+</ol>
+<dl>
+<dt><font color="green">HTML</font></dt>
+<dd>Hyper text markup language</dd>
+<dd>For any text related</dd>
+<dt><font color="green">CSS</font></dt>
+<dd>Cascading Style Sheets</dd>
+<dd>For Styling purpose</dd>
+<dt><font color="green">Mysql</font></dt>
+<dd>For database</dd>
+</dl>
+</section>
+
+<section id="projects">
+<hr>
+<h3><font color="blue">Projects</font></h3>
+<ul>
+<li><font color="green">Student Management System | Java and MySQL</font></li>
+<p>
+– Developed a Student Management System in Java to add, update, delete, and search student records efficiently.
+</p>
+<li><font color="green">ATM Simulation System | Java</font></li>
+<p>
+– Enhanced an ATM Simulation system in Java allowing users to perform deposit, withdrawal, balance inquiry, and PIN
+verification.
+</p>
+</ul>
+
+<hr>
+<figure>
+<img src="C:\html_practice\IMG_E1815.JPG" src="C:\html_practice\IMG_1358.JPG" alt="file" title="mirror selfie" width="300">
+<figcaption>
+BE CALM.
+</figcaption>
+</figure>
+</section>
+
+<ul>
+<li><a href="#"><font color="red">Go To Top</font></a></li>
+</ul>
+</body>
+</html>
