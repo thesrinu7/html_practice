@@ -1,0 +1,44 @@
+<html>
+
+<head>
+<title>About Me</title>
+</head>
+
+<body bgcolor="lightgray">
+<h1><font color="red">ABOUT ME</font></h1>
+<hr>
+<h2><font color="blue">Srinivas jammoju</font></h2>
+<nav>
+<p>
+<ul>
+Motivated Computer Science student with a strong foundation in Java , problem solving,
+and object-oriented programming. Hands-on experience in developing small projects and solving coding problems. Looking for opportunities to apply my skills <abbr title="Srinivas Developer">SD</abbr>
+</ul>
+</p>
+<ul>
+<li><a href="C:\html_practice\IMG_E1815.JPG"download>Download My image</a></li>
+<li><a href="mailto:random@gmail.com">My mail</a></li>
+<li><a href="tel:+1234567890">dial</a></li>
+<li><a href="https://www.adityauniversity.in/EEE">My College</a></li>
+</ul>
+</nav>
+<hr>
+
+<section>
+<figure>
+<img src="C:\html_practice\IMG_1358.JPG" alt="file" title="smile" width="300">
+<figcaption>
+Keep Moving forward.
+</figcaption>
+</figure>
+</section>
+<hr>
+
+<ul>
+<li><a href="myportfolio.html">&lt;&lt;&lt;Home&gt;&gt;&gt;</a></li>
+</ul>
+
+
+
+</body>
+</html>
